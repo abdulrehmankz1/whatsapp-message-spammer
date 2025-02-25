@@ -28,3 +28,31 @@ Make sure you have the following installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yourusername/whatsapp-message-spammer.git
+   ```
+
+2. **Navigate to the project folder**:
+   ```bash
+   cd whatsapp-message-spammer
+   ```
+
+3. **Install required dependencies** (if not installed already):
+   ```bash
+   pip install pyautogui
+   ```
+
+4. **Run the script**:
+   ```bash
+   python3 whatsapp_prank.py
+   ```
+
+---
+
+## ⚠ Important Notes:
+- Ensure that **WhatsApp Web** is logged in before running the script.
+- The script will open WhatsApp Web, **wait 15-20 seconds**, and then start sending messages.
+- If the messages are not being sent, **click on the chat manually** before the script starts.
+
+---
+
+## 📜 License:
+This project is for educational purposes only. **Use it responsibly!** 🚀
